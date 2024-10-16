@@ -3,6 +3,9 @@ I created this project to demonstrate how to securely access an Amazon S3 bucket
 I was able to create and configure a VPC, launch an EC2 instance, configure security groups, create S3 bucket, use IAM to create access keys, and finally use the AWS CLI to interact with S3 bucket. 
 By implementing this hands-on project, I gained a comprehensive understanding of networking, security, and cloud storage integration on AWS.
 
+## Architecture Diagram
+![image alt]( https://github.com/ris21/Access-S3-from-a-VPC/blob/main/architecture%20diagram-Access%20S3%20from%20a%20VPC.png)
+
 ## Project Objectives
 1. Create and configure a Virtual Private Cloud (VPC) with subnets and security groups.
 2. Launch an EC2 instance within the VPC and configure access via SSH port 22.

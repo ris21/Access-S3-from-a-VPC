@@ -16,3 +16,5 @@ By implementing this hands-on project, I gained a comprehensive understanding of
 4. AWS CLI Usage: Learned to interact with AWS services like S3 from an EC2 instance using the command line.
 5. Networking: Understood the concepts of private and public subnets, and routing traffic within a VPC.
 6. Cloud Storage: Accessed and manipulated objects in S3 buckets using programmatic access (CLI) from an EC2 instance.
+
+## Steps

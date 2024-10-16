@@ -33,10 +33,10 @@ By implementing this hands-on project, I gained a comprehensive understanding of
 ![image alt]( https://github.com/ris21/Access-S3-from-a-VPC/blob/b01eedb72addf13f889dd66952edfecf058a0ebf/ec2%20connect.PNG) 
 ### 6. Accessed and uploaded files to the S3 bucket using the following commands;
 
--aws s3 ls - list S3 bucket
--aws s3 ls risparbucket – list objects in S3 bucket 
--sudo touch /tmp/test.txt – created a new .txt file
--aws s3 cp /tmp/test.txt s3://risparbucket/ - Uploaded the .txt file to the S3 bucket
--aws s3 ls s3:// risparbucket - Verified the upload by listing the bucket contents
+#### aws s3 ls - list S3 bucket
+#### aws s3 ls risparbucket – list objects in S3 bucket 
+#### sudo touch /tmp/test.txt – created a new .txt file
+#### aws s3 cp /tmp/test.txt s3://risparbucket/ - Uploaded the .txt file to the S3 bucket
+#### aws s3 ls s3:// risparbucket - Verified the upload by listing the bucket contents
 
 ![image alt]( https://github.com/ris21/Access-S3-from-a-VPC/blob/b01eedb72addf13f889dd66952edfecf058a0ebf/list%20s3%20bucket%20objects.PNG)
